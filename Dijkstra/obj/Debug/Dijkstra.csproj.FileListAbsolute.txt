@@ -1,0 +1,8 @@
+C:\Users\Manu-\OneDrive\Documents\universidad\CUARTO CICLO 2022\ESTRUCTURA DE DATOS\Semana 13\teoria\Sesion13\Dijkstra\bin\Debug\Dijkstra.exe.config
+C:\Users\Manu-\OneDrive\Documents\universidad\CUARTO CICLO 2022\ESTRUCTURA DE DATOS\Semana 13\teoria\Sesion13\Dijkstra\bin\Debug\Dijkstra.exe
+C:\Users\Manu-\OneDrive\Documents\universidad\CUARTO CICLO 2022\ESTRUCTURA DE DATOS\Semana 13\teoria\Sesion13\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\Users\Manu-\OneDrive\Documents\universidad\CUARTO CICLO 2022\ESTRUCTURA DE DATOS\Semana 13\teoria\Sesion13\Dijkstra\obj\Debug\Dijkstra.csproj.AssemblyReference.cache
+C:\Users\Manu-\OneDrive\Documents\universidad\CUARTO CICLO 2022\ESTRUCTURA DE DATOS\Semana 13\teoria\Sesion13\Dijkstra\obj\Debug\Dijkstra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manu-\OneDrive\Documents\universidad\CUARTO CICLO 2022\ESTRUCTURA DE DATOS\Semana 13\teoria\Sesion13\Dijkstra\obj\Debug\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Manu-\OneDrive\Documents\universidad\CUARTO CICLO 2022\ESTRUCTURA DE DATOS\Semana 13\teoria\Sesion13\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Users\Manu-\OneDrive\Documents\universidad\CUARTO CICLO 2022\ESTRUCTURA DE DATOS\Semana 13\teoria\Sesion13\Dijkstra\obj\Debug\Dijkstra.pdb
